@@ -1,7 +1,7 @@
 
 added second commit pull
 
-
+triveni do well
 
 HEAD
 hello all this is the third commit which goes into the second comit. 
